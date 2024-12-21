@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @martina-torce
-- 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently a student at Imperial College London studying Bioengineering
+- 👋 Hi, I’m Martina
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently a Data Scientist and Researcher
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: martina.torce@gmail.com
